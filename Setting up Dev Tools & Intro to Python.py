@@ -1,0 +1,5 @@
+print("Welcome to the first lesson of python!")
+print("Hello World")
+print("My name is Abiat Nushafa")
+print("I love coding")
+print("The result of 3 + 5 is", 3 + 5)
